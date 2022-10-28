@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishweenkhatri&show_icons=true&locale=en" alt="ishweenkhatri" /></p>
 
-<a href="https://www.holopin.io/@" target="blank"><img align="center" src="https://github.com/chaitanyarai19/chaitanyarai19/blob/main/holopin_chaitanyarai.PNG" alt="chaitanyarai19" /></a>
+<a href="https://www.holopin.io/@ishweenkhatri" target="blank"><img align="center" src="https://github.com/ISHWEENKHATRI/ISHWEENKHATRI/blob/main/Holopin_Ishween.png" alt="ISHWEENKHATRI" /></a>

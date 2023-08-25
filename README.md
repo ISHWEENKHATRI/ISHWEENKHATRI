@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishweenkhatri" alt="ishweenkhatri" /></a> </p>
 
+- 🌱 I’m currently learning *WordPress*
+
+- 💬 Ask me about *Php, MySql, SQL*
+
+- 📫 How to reach me *ishween.khatri22@gmail.com*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ishweenkhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishweenkhatri" height="30" width="40" /></a>

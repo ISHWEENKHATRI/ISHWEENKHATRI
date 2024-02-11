@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishweenkhatri" alt="ishweenkhatri" /></a> </p>
 
-- 🌱 I’m currently learning *WordPress*
+- 🌱 I’m currently learning *MERN Stack*
 
-- 💬 Ask me about *Php, MySql, SQL*
+- 💬 Ask me about *Php, MySql, SQL, WordPress*
 
 - 📫 How to reach me *ishween.khatri22@gmail.com*
 
